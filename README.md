@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Carnel](img/benner.png)
 
 <!--
 **Carnel261/Carnel261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
